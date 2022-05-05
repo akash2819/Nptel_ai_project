@@ -1,3 +1,3 @@
-# One_Shot_Learning
+# Nptel: Face Recog project
 
-## Please refer the document attached to this repo
+##
